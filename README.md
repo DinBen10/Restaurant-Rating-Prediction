@@ -1,4 +1,4 @@
-# Restaurant-Rating-Prediction
+# Restaurant Rating Prediction
 
 Zomato is one of the best online food delivery apps which gives the users the ratings and the reviews on restaurants all over india.These ratings and the Reviews are considered as one of the most important deciding factors which determine how good a restaurant is.
 
@@ -19,7 +19,7 @@ With such an overwhelming demand of restaurants it has therefore become importan
 
 “Just so that you have a good meal the next time you step out”
 
-The data is accurate to that available on the zomato website until 15 March 2019. The data was scraped from Zomato in two phase. After going through the structure of the website I found that for each neighborhood there are 6-7 category of restaurants viz. Buffet, Cafes, Delivery, Desserts, Dine-out, Drinks & nightlife, Pubs and bars.
+The data was scraped from Zomato in two phase. After going through the structure of the website I found that for each neighborhood there are 6-7 category of restaurants viz. Buffet, Cafes, Delivery, Desserts, Dine-out, Drinks & nightlife, Pubs and bars.
 
 Phase I,
 
